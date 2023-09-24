@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Cake",
+        "image": "../images/cake.jpg",
+        "price": 10
+    },
+    {
+        "name": "BBQ",
+        "image": "../images/BBQ.jpg",
+        "price": 12
+    }, 
+    {
+        "name": "Burger",
+        "image": "../images/burger.jpg",
+        "price": 14
+    }, 
+    {
+        "name": "Ice-Cream",
+        "image": "../images/icecream.jpg",
+        "price": 8
+    },
+    {
+        "name": "Meet Balls",
+        "image": "../images/meetballs.jpg",
+        "price": 20
+    },
+    {
+        "name": "Noodles",
+        "images": "../images/noodles.jpg",
+        "price": 25
+    },
+    {
+        "name": "Pancake",
+        "images": "../images/pancake.jpg",
+        "price": 17
+    },
+    {
+        "name": "Pizza",
+        "images": "../images/pizza.jpg",
+        "price": 19
+    }
+]
